@@ -2,7 +2,7 @@ package exercise01.Lvl1.model;
 
 public class WindInstrument extends Instrument {
     static {
-        System.out.println("Loading WindInstrument");
+        System.out.println("Loading Wind Instrument");
     }
 
     public WindInstrument(String name, double price) {

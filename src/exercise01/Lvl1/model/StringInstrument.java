@@ -2,7 +2,7 @@ package exercise01.Lvl1.model;
 
 public class StringInstrument extends Instrument {
     static {
-        System.out.println("Loading StringInstrument");
+        System.out.println("Loading String Instrument");
     }
 
     public StringInstrument(String name, Double price) {

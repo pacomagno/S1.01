@@ -7,7 +7,7 @@ import exercise01.Lvl1.model.WindInstrument;
 public class Main {
     public static void main(String[] args) {
 
-        WindInstrument saxofone = new WindInstrument("Saxsofone", 560.50);
+        WindInstrument saxofone = new WindInstrument("Saxofone", 560.50);
         saxofone.play();
         System.out.println();
         StringInstrument violin = new StringInstrument("Violin", 1250.50);

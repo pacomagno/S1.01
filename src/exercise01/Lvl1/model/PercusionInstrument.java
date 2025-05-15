@@ -2,7 +2,7 @@ package exercise01.Lvl1.model;
 
 public class PercusionInstrument extends Instrument {
     static {
-        System.out.println("Loading PercusionInstrument");
+        System.out.println("Loading Percusion Instrument");
     }
 
     public PercusionInstrument(String name, Double price) {
