@@ -8,7 +8,7 @@ public class PercusionInstrument extends Instrument {
     public PercusionInstrument(String name, Double price) {
         super(name, price);
     }
-
+@Override
     public void play() {
         System.out.println("Playing Percusion instrument");
     }
